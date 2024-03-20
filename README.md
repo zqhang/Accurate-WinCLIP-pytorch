@@ -204,10 +204,10 @@ bash few_shot.sh
 If you find this paper and repository useful, please cite our paper.
 
 ```
-@article{zhou2023anomalyclip,
+@article{zhou2024anomalyclip,
   title={AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection},
   author={Zhou, Qihang and Pang, Guansong and Tian, Yu and He, Shibo and Chen, Jiming},
-  journal={arXiv preprint arXiv:2310.18961},
-  year={2023}
+  journal={The Twelfth International Conference on Learning Representations},
+  year={2024}
 }
 ```
