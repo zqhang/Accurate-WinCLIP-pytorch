@@ -5,7 +5,7 @@ The implementation of CLIP is based on [open_clip](https://github.com/mlfoundati
 ## Updates
 
 - **03.20.2024**: Update the 2-shot, 4-shot, and 8-shot results of VisA.
-- **03.20.2024**: Update the visa.py to generate the JSON for VisA.
+- **08.08.2024**: Update the visa.py to generate the JSON for VisA.
   
 ## Performance evaluation
 ### Few-shot
