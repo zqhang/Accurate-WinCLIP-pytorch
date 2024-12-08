@@ -211,4 +211,14 @@ If you find this paper and repository useful, please cite our paper.
   journal={The Twelfth International Conference on Learning Representations},
   year={2024}
 }
+
+@misc{jeong2023winclipzerofewshotanomalyclassification,
+      title={WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation}, 
+      author={Jongheon Jeong and Yang Zou and Taewan Kim and Dongqing Zhang and Avinash Ravichandran and Onkar Dabeer},
+      year={2023},
+      eprint={2303.14814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2303.14814}, 
+}
 ```
